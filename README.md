@@ -1,1 +1,2 @@
-# teamcity-agent-with-compose
+# Teamcity agent with docker-compose installed
+
